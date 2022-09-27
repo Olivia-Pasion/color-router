@@ -1,6 +1,7 @@
 import { Switch, Route } from 'react-router-dom';
 import RGB from '../RGB/RGB';
 import NotFound from '../NotFound/NotFound';
+import './ScreenColor.css';
 
 export default function ScreenColor() {
   return (
